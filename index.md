@@ -4,4 +4,4 @@ MyHermesApp is a personal, self-hosted AI assistant (based on Hermes Agent) used
 
 Privacy policy: [privacy](privacy.html)
 
-Contact: shafiqurrehman@gmail.com
+Contact: [open an issue on GitHub](https://github.com/ShafiqUrRehman/myhermes/issues)
