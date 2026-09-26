@@ -22,4 +22,4 @@ Access can be revoked at any time at https://myaccount.google.com/permissions
 
 ## Contact
 
-shafiqurrehman@gmail.com
+Questions about this policy can be raised by [opening an issue on GitHub](https://github.com/ShafiqUrRehman/myhermes/issues).
